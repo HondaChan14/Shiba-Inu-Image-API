@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/shiba.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Bebas Neue', cursive
+    ;
+}
+
+h1{
+    font-size: 60px;
+    color: black;
+}
+
+.section-container{
+    height: 70vh;
+    padding: 0 70px;
+    width: 90vw;
+    
+}
+
+
+button {
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    padding: 2px;
+    font-size: 60px;
+    border-radius: 10px;
+}
+
+img{
+    position: absolute;
+    left: 60%;
+    width: 30%;
+}
+
